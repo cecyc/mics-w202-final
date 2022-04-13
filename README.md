@@ -2,7 +2,7 @@
 
 ## Implementations of RSA in different languages
 
-### Java
+* Java
+* Ruby
 
-### Ruby
-
+Using Python as a benchmark.
